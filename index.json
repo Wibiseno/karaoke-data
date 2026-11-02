@@ -1,0 +1,164 @@
+[
+  {
+    "id": "you-ten2five",
+    "title": "You",
+    "artist": "Ten2Five",
+    "audioId": "83507357796091",
+    "BackgroundImage": "126290323024445",
+    "AlbumImage": "126290323024445",
+    "offset": 0
+  },
+  {
+    "id": "bird-of-feather-billie-eilish",
+    "title": "Bird of Feather",
+    "artist": "Billie Eilish",
+    "audioId": "74724783486214",
+    "BackgroundImage": "122864523856698",
+    "AlbumImage": "122864523856698",
+    "offset": 0
+  },
+  {
+    "id": "ah-nadin-amizah",
+    "title": "AH",
+    "artist": "Nadin Amizah",
+    "audioId": "137196238049485",
+    "BackgroundImage": "114352350901116",
+    "AlbumImage": "114352350901116",
+    "offset": 0
+  },
+  {
+    "id": "mendarah-nadin-amizah",
+    "title": "Mendarah",
+    "artist": "Nadin Amizah",
+    "audioId": "134048047001609",
+    "BackgroundImage": "114352350901116",
+    "AlbumImage": "114352350901116",
+    "offset": 0
+  },
+  {
+    "id": "tennessee-whiskey-chris-stapleton",
+    "title": "Tennese Whiskey",
+    "artist": "Chris Sepleton",
+    "audioId": "127437187876869",
+    "BackgroundImage": "75312401923278",
+    "AlbumImage": "75312401923278",
+    "offset": 0
+  },
+  {
+    "id": "if-i-aint-got-you-alicia-keys",
+    "title": "If Aint Got You",
+    "artist": "Alicia Keys",
+    "audioId": "125883057353980",
+    "BackgroundImage": "106986320185823",
+    "AlbumImage": "106986320185823",
+    "offset": 0
+  },
+  {
+    "id": "when-you-love-someone-endah-n-rhesa",
+    "title": "When You Love Someone",
+    "artist": "Endah n Rhesa",
+    "audioId": "104687255728923",
+    "BackgroundImage": "75312401923278",
+    "AlbumImage": "75312401923278",
+    "offset": 0
+  },
+  {
+    "id": "i-will-the-beatles",
+    "title": "I Will",
+    "artist": "The Beatles",
+    "audioId": "129925063456686",
+    "BackgroundImage": "75312401923278",
+    "AlbumImage": "75312401923278",
+    "offset": 0
+  },
+  {
+    "id": "fix-you-coldplay",
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "audioId": "132206873208639",
+    "BackgroundImage": "75312401923278",
+    "AlbumImage": "75312401923278",
+    "offset": 0
+  },
+  {
+    "id": "wildflower-billie-eilish",
+    "title": "Wildflower",
+    "artist": "Billie Eilish",
+    "audioId": "119135802164455",
+    "BackgroundImage": "122864523856698",
+    "AlbumImage": "122864523856698",
+    "offset": 0
+  },
+  {
+    "id": "taruh-nadin-amizah",
+    "title": "Taruh",
+    "artist": "Nadin Amizah",
+    "audioId": "111511595965588",
+    "BackgroundImage": "114352350901116",
+    "AlbumImage": "114352350901116",
+    "offset": 0
+  },
+  {
+    "id": "ada-titik-titik-sal-priadi",
+    "title": "Ada Titik Titik",
+    "artist": "Sal Priadi",
+    "audioId": "122208506189505",
+    "BackgroundImage": "106157628587241",
+    "AlbumImage": "106157628587241",
+    "offset": 0
+  },
+  {
+    "id": "bertaut-nadin-amizah",
+    "title": "Bertaut",
+    "artist": "Nadin Amizah",
+    "audioId": "82570852546517",
+    "BackgroundImage": "114352350901116",
+    "AlbumImage": "114352350901116",
+    "offset": 0
+  },
+  {
+    "id": "semua-aku-dirayakan-nadin-amizah",
+    "title": "Semua Aku Dirayakan",
+    "artist": "Nadin Amizah",
+    "audioId": "119870189391204",
+    "BackgroundImage": "114352350901116",
+    "AlbumImage": "114352350901116",
+    "offset": 0
+  },
+  {
+    "id": "bunga-abadi-rio-clappy",
+    "title": "Bunga Abadi",
+    "artist": "Rio Clappy",
+    "audioId": "130413079341535",
+    "BackgroundImage": "92896442030453",
+    "AlbumImage": "92896442030453",
+    "offset": 0
+  },
+  {
+    "id": "rumah-ke-rumah-hindia",
+    "title": "Rumah ke Rumah",
+    "artist": "Hindia",
+    "audioId": "82584342435722",
+    "BackgroundImage": "95686447055814",
+    "AlbumImage": "95686447055814",
+    "offset": 0
+  },
+  {
+    "id": "gala-bunga-matahari-sal-priadi",
+    "title": "Gala Bunga Matahari",
+    "artist": "Sal Priadi",
+    "audioId": "119579248391693",
+    "BackgroundImage": "106157628587241",
+    "AlbumImage": "106157628587241",
+    "offset": 0
+  },
+  {
+    "id": "membasuh-hindia",
+    "title": "Membasuh",
+    "artist": "Hindia",
+    "audioId": "123827479102582",
+    "BackgroundImage": "112899277250219",
+    "AlbumImage": "112899277250219",
+    "offset": 0
+  }
+]
