@@ -85,7 +85,7 @@
     "title": "Wildflower",
     "artist": "Billie Eilish",
     "audioId": "119135802164455",
-    "BackgroundImage": "75312401923278",
+    "BackgroundImage": "122864523856698",
     "AlbumImage": "122864523856698",
     "offset": 0
   },
@@ -159,6 +159,15 @@
     "audioId": "123827479102582",
     "BackgroundImage": "93908011316054",
     "AlbumImage": "93908011316054",
+    "offset": 0
+  },
+  {
+    "id": "kangen-dewa19",
+    "title": "Kangen",
+    "artist": "Dewa19",
+    "audioId": "119336371734231",
+    "BackgroundImage": "75312401923278",
+    "AlbumImage": "75312401923278",
     "offset": 0
   }
 ]
