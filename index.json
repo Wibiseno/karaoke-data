@@ -170,15 +170,23 @@
     "AlbumImage": "75312401923278",
     "offset": 0
   },
-    {
+  {
+    "id": "tahta-hatiku-fajar-noor",
+    "title": "Tahta Hatiku",
+    "artist": "Fajar Noor",
+    "audioId": "130263219349728",
+    "BackgroundImage": "75312401923278",
+    "AlbumImage": "75312401923278",
+    "offset": 0
+  },
+  {
     "id": "i-remember-mocca",
     "title": "I Remember",
     "artist": "Mocca",
     "audioId": "94988142723757",
     "BackgroundImage": "75312401923278",
     "AlbumImage": "75312401923278",
-    "offset": 0,
-    "language": "en"
+    "offset": 0
   },
   {
     "id": "secret-admirer-mocca",
@@ -187,17 +195,6 @@
     "audioId": "71272170322333",
     "BackgroundImage": "75312401923278",
     "AlbumImage": "75312401923278",
-    "offset": 0,
-    "language": "en"
-  },
-  {
-    "id": "tahta-hatiku-fajar-noor",
-    "title": "Tahta Hatiku",
-    "artist": "Fajar Noor",
-    "audioId": "130263219349728",
-    "BackgroundImage": "75312401923278",
-    "AlbumImage": "75312401923278",
-    "offset": 0,
-    "language": "id"
+    "offset": 0
   }
 ]
